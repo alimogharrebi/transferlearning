@@ -1,5 +1,5 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"image": "hub.docker.com/r/jindongwang/docker",
 	"features": {
 		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
 		"ghcr.io/customink/codespaces-features/docker-log-level:1": {}
